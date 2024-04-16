@@ -2,7 +2,7 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-I'm an intern at a company where I am honing my skills in <strong>Java and Spring Boot</strong>. I am studying at Wyższa Szkoła Technologii Informatycznych, and I'm quite new to the programming world but very eager to learn and practice.
+I'm an intern at jFeeSoft where I am honing my skills in <strong>Java and Spring Boot</strong>. I am studying at Wyższa Szkoła Technologii Informatycznych, and I'm quite new to the programming world but very eager to learn and practice.
 </p>
 <p align="center">
 My main focus is on backend technologies, especially <strong>Java</strong>. I also have a strong interest in exploring <strong>frontend development</strong> and <strong>good testing practices</strong>. I am enthusiastic about developing my architectural skills and creating domain-driven software that effectively meets business requirements.
